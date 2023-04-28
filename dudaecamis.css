@@ -3,11 +3,11 @@
     background-color:black;
 }
 h1 {
-    background-color:rgba(255, 0, 0, 0.911);
+    background-color:rgba(19, 117, 117, 0.452);
     text-align: center;
 }
 h2 {
-    background-color:rgba(255, 0, 0, 0.911);
+    background-color: rgba(255, 0, 0, 0.637);
 }
 . imagem{
           width: 20x ; _
@@ -26,7 +26,16 @@ p{
     Background image: linear-gradient (#383d58);
 }
 .footter{
-    background-color: black;
+    background-color:rgba(19, 117, 117, 0.452);
+    margin-top: auto;
     fill:  15 px ;
     exibição:block in line;
+}
+.contatos {
+    exibição:block in line;
+    margin:  0  16 px  ;
+
+}
+.seila{
+    background-color:rgba(19, 117, 117, 0.452);
 }
