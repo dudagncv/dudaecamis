@@ -2,26 +2,26 @@
     background-color: var(--roxo);
     color: var(--branco);
     text-align: center;
-    padding:2.5em 2em;
+    padding:2.5,5em 3em;
 
 }
 
 .banner__titulo{
-    font-size: 18px;
-    font-weight: 700;
+    font-size: 19px;
+    font-weight: 750;
 }
 .banner__texto{
-    font-weight: 500;
-    margin: 1em;
+    font-weight: 550;
+    margin: 2em;
 }
 
 .banner__pesquisa{
     background-color: transparent;
-    border: 1px solid var(--branco);
+    border: 1px solid var(--azul);
     border-radius: 25px;
     width: 100%;
     padding: 1em;
-    color: var(--branco);
+    color: var(--azul);
     
 }
 
